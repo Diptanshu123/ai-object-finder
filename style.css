@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    text-align: center;
+}
+.note{
+    font-size: 18px;
+    color: black;
+}
+.heading{
+    width: 100%;
+    font-size: large;
+}
+#input{
+    width: 300;
+    float: none;
+}
+canvas{
+    margin-top: 150px;
+}
